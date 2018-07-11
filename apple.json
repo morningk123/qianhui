@@ -3,13 +3,13 @@
   "updateUrl":"http://appdown.zfpai.com/qianhui_download/",
   "branches":[
     {
-      "code":"1003",
-      "version":"1.0.3",
+      "code":"1006",
+      "version":"1.0.6",
       "status":"release"
     },
     {
-      "code":"1006",
-      "version":"1.0.6",
+      "code":"1007",
+      "version":"1.0.7",
       "status":"release"
     }
   ]
