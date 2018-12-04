@@ -3,13 +3,13 @@
   "updateUrl":"http://appdown.1016wan.com/qianhui_download/",
   "branches":[
     {
-      "code":"1006",
-      "version":"1.0.6",
+      "code":"1008",
+      "version":"1.0.8",
       "status":"release"
     },
       {
-      "code":"1008",
-      "version":"1.0.8",
+      "code":"1009",
+      "version":"1.0.9",
       "status":"release"
     }
   ]
